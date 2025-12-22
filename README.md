@@ -1,4 +1,4 @@
-📈 Stoxly - Kişisel Yatırım Kokpiti
+ Stoxly - Kişisel Yatırım Kokpiti
 
 Stoxly, karmaşık finansal verileri anlaşılır Türkçe'ye çeviren bir yatırım analiz platformudur.
  Özellikler
