@@ -1,7 +1,7 @@
 📈 Stoxly - Kişisel Yatırım Kokpiti
 
 Stoxly, karmaşık finansal verileri anlaşılır Türkçe'ye çeviren bir yatırım analiz platformudur.
-🎯 Özellikler
+ Özellikler
 
     Teknik Analiz: RSI, Moving Averages, Risk Skoru hesaplama
     Türkçe Çeviri: Finansal terimleri anlaşılır Türkçe'ye çevirme
@@ -9,7 +9,7 @@ Stoxly, karmaşık finansal verileri anlaşılır Türkçe'ye çeviren bir yatı
     Eğitim: Finansal terimlerin açıklamaları
     Borsa İstanbul & Kripto: Hem hisse senetleri hem de kripto paralar için analiz
 
-🚀 Kurulum
+ Kurulum
 Gereksinimler
 
     Python 3.8+
@@ -30,7 +30,7 @@ source venv/bin/activate  # Windows için: venv\Scripts\activate
 
 pip install -r requirements.txt
 
-📖 Kullanım
+ Kullanım
 Streamlit Uygulaması
 
 Ana uygulamayı çalıştırmak için:
@@ -44,7 +44,7 @@ Analiz örneklerini görmek için:
 
 jupyter notebook notebooks/analysis_example.ipynb
 
-🏗️ Proje Yapısı
+ Proje Yapısı
 
 Stoxly/
 ├── app.py                      # Streamlit ana uygulama
@@ -59,7 +59,7 @@ Stoxly/
 ├── requirements.txt            # Python bağımlılıkları
 └── README.md
 
-📊 Kullanım Örnekleri
+ Kullanım Örnekleri
 Hisse Senedi Analizi
 
     Streamlit uygulamasını açın
@@ -97,20 +97,20 @@ Mock Service (lib/mock_service.py)
     fetch_crypto_data(): Kripto para verisi
     generate_mock_data(): Mock veri üretme
 
-📝 Notlar
+ Notlar
 
     Veri çekme için Yahoo Finance API kullanılmaktadır
     Borsa İstanbul hisseleri için .IS suffix'i otomatik eklenir
     İnternet bağlantısı gereklidir (Yahoo Finance API için)
     Veri çekilemezse otomatik olarak mock veri kullanılır
 
-🤝 Katkıda Bulunma
+ Katkıda Bulunma
 
 Katkılarınızı bekliyoruz! Lütfen pull request gönderin.
-📄 Lisans
+ Lisans
 
 Bu proje eğitim amaçlıdır.
-📧 İletişim
+ İletişim
 
 Sorularınız için issue açabilirsiniz.
 
